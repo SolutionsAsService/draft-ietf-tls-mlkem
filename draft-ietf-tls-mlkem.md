@@ -25,7 +25,7 @@ venue:
 author:
  -
     fullname: Deirdre Connolly
-    organization: SandboxAQ
+    organization: Selkie Cryptography
     email: durumcrustulum@gmail.com
 
 normative:
